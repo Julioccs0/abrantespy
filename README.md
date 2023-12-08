@@ -1,4 +1,4 @@
-''
+```
 import heapq
 import sys
 
@@ -43,4 +43,4 @@ if __name__ == "__main__":
 
     fragmentos = carrega_blocos_ordenados(caminho_do_arquivo, tamanho_bloco)
     merge_blocos_ordenados(fragmentos, caminho_saida)
-''
+```
